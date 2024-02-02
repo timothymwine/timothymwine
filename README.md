@@ -1,4 +1,5 @@
-### Hi there 👋
+I am an Automated Tester with a specialization in testing web Apps, Desktop Apps and phone applications  from the front end using automated scripts written in selenium python.
+I look forward to hearing how I can fit in with your Dev Team to deliver robust code which meets your business expectations and milestones.
 
 <!--
 **timothymwine/timothymwine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
