@@ -1,3 +1,5 @@
+###Hi, I'm Tim
+
 I am a quality assurance Automation engineer with a specialization in testing web Apps, Desktop Apps and phone applications  from the front end using automated scripts written in selenium python.
 I look forward to hearing how I can fit in with your Dev Team to deliver robust code which meets your business expectations and milestones.
 
